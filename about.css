@@ -1,0 +1,12 @@
+.school {
+    background-color: blue;
+        font-weight: 700;
+        font-size: x-large;
+        font-family: 'Times New Roman', Times, serif;
+        color: cornsilk;
+        text-align: left;
+}
+img {
+    padding-left: 15px;
+    width: 300px;
+}
