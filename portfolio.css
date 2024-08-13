@@ -1,4 +1,9 @@
 img {
     padding-left: 75%; 
     width: 300px;
+    
+}
+.home {
+    display: grid;
+    text-align: center;
 }
