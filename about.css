@@ -5,8 +5,12 @@
         font-family: 'Times New Roman', Times, serif;
         color: cornsilk;
         text-align: left;
+        display: grid;
+        text-align: center;
 }
 img {
     padding-left: 15px;
     width: 300px;
+    
 }
+
